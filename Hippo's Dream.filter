@@ -1942,7 +1942,7 @@ Hide # 83+ Crafting Bases - T2 and Hybrid Bases - Boots
 # T2 and Hybrid Bases
 Hide # 83+ Crafting Bases - T2 and Hybrid Bases - Gloves
     ItemLevel >= 83
-    BaseType "Dragonscale Gloves" "Hydrascale Gloves" "Vaal Gauntlets" "Stealth Gloves"
+    BaseType "Dragonscale Gauntlets" "Hydrascale Gauntlets" "Vaal Gauntlets" "Stealth Gloves"
     SetTextColor 255 200 0
     SetBackgroundColor 0 0 0
     SetBorderColor 255 192 203
@@ -1952,7 +1952,7 @@ Hide # 83+ Crafting Bases - T2 and Hybrid Bases - Gloves
 Hide # 83+ Crafting Bases - T2 and Hybrid Bases - Gloves
     ItemLevel >= 83
     Rarity = Rare
-    BaseType "Dragonscale Gloves" "Hydrascale Gloves" "Vaal Gauntlets" "Stealth Gloves"
+    BaseType "Dragonscale Gauntlets" "Hydrascale Gauntlets" "Vaal Gauntlets" "Stealth Gloves"
     SetTextColor 255 255 255
     SetBackgroundColor 0 0 0
     SetBorderColor 255 192 203
@@ -2287,7 +2287,7 @@ Hide # Rare Equipment - T2 and Hybrid Bases - Boots
 # T2 and Hybrid Bases
 Hide # Rare Equipment - T2 and Hybrid Bases - Gloves
     Rarity = Rare
-    BaseType "Dragonscale Gloves" "Hydrascale Gloves" "Vaal Gauntlets" "Stealth Gloves"
+    BaseType "Dragonscale Gauntlets" "Hydrascale Gauntlets" "Vaal Gauntlets" "Stealth Gloves"
     SetTextColor 255 200 0
     SetBackgroundColor 0 0 0
     SetBorderColor 255 192 203
